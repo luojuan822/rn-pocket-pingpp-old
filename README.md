@@ -1,5 +1,7 @@
 # rn-pocket-pingpp
 
+用于在react native中调用原生的ping++支付sdk来进行支付
+
 安装：
 
     npm install --save git+https://github.com/luojuan822/rn-pocket-pingpp.git
