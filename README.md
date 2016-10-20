@@ -1,5 +1,9 @@
 # rn-pocket-pingpp
 
+安装：
+
+    npm install https://github.com/luojuan822/rn-pocket-pingpp.git
+
 ios 使用说明:
 
 1.将ios文件夹下的PingppSDK拖拽到项目文件夹(例如pocket)下,选择create groups,不copy
