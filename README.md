@@ -2,7 +2,7 @@
 
 安装：
 
-    npm install https://github.com/luojuan822/rn-pocket-pingpp.git
+    npm install --save git+https://github.com/luojuan822/rn-pocket-pingpp.git
 
 ios 使用说明:
 
