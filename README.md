@@ -3,8 +3,11 @@ react native
 
 ios 使用说明:
 1.将ios文件夹下的PingppSDK拖拽到项目文件夹(例如pocket)下,选择create groups,不copy
+
 2.将项目文件PingPayManager.h、PingPayManager.m文件拖拽到项目文件夹(例如pocket)下,选择create groups,不copy
+
 3.依赖 Frameworks
+
 CFNetwork.framework
 SystemConfiguration.framework
 Security.framework
@@ -15,6 +18,7 @@ libc++.tbd
 libz.tbd
 libsqlite3.0.tbd
 libstdc++.tbd
+
 4.配置Build Settings下的Framework Search Paths(用于寻找AliPay.framework)和Library Search Paths(用于寻找.a的library)
 Framework Search Paths 设置
     $(inherited)
