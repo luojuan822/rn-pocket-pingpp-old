@@ -8,25 +8,16 @@ ios 使用说明:
 
 3.依赖 Frameworks
 
-CFNetwork.framework
-
-SystemConfiguration.framework
-
-Security.framework
-
-QuartzCore.framework
-
-CoreTelephony.framework
-
-CoreMotion.framework
-
-libc++.tbd
-
-libz.tbd
-
-libsqlite3.0.tbd
-
-libstdc++.tbd
+    CFNetwork.framework
+    SystemConfiguration.framework
+    Security.framework
+    QuartzCore.framework
+    CoreTelephony.framework
+    CoreMotion.framework
+    libc++.tbd
+    libz.tbd
+    libsqlite3.0.tbd
+    libstdc++.tbd
 
 4.配置Build Settings下的Framework Search Paths(用于寻找AliPay.framework)和Library Search Paths(用于寻找.a的library)
 
