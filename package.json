@@ -1,0 +1,12 @@
+{
+  "name": "rn-pocket-pingpp",
+  "version": "1.0.0",
+  "description": "ping++ for react native",
+  "keywords": [ "react", "react native", "ping++" ],
+  "main": "index.js",
+  "author": "@luojuan822",
+  "license": "MIT",
+  "dependencies": {
+    "invariant": "^2.1.0"
+  }
+}
